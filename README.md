@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 
 
-Meu nome é Beatriz Vitoria
+## Meu nome é Beatriz Vitoria
 
 - estudo através do [Alura](https://www.alura.com.br/)
 - utilizo esse espaço para organização e compartilhamento dos projetos desnvolvidos 
