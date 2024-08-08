@@ -2,6 +2,8 @@
 
 Meu nome é Beatriz Vitoria
 
+- estudo através do Alura
+- utilizo esse espaço para organização e compartilhamento dos projetos desnvolvidos 
  
 
 
